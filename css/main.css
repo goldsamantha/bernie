@@ -1,0 +1,29 @@
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 45px;
+    background-color: #FFF2E6;
+}
+
+.article--container {
+    min-height: 200px;
+}
+
+.article {
+    max-width: 600px;
+}
+
+.bg-lr {
+    background-color: #FF5940;
+}
+
+.bg-lb {
+    background-color: #C6EDF7;
+}
+
+.bg-light {
+    background-color: #FFF2E6;
+}
+
+.lh0 {
+    line-height: 0;
+}
